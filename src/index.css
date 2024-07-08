@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.container{
+    
+    font-family: "Rubik", sans-serif;
+    }
+    html,body{
+        height: 100%;
+        width: 100%;
+    }
+    
+    
+    /* @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap') */
